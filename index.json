@@ -1,0 +1,14 @@
+{
+  "format": "forum-binder-catalog",
+  "title": "Каталог конфигов Forum Binder",
+  "official": "configs/official.json",
+  "items": [
+    {
+      "file": "configs/primer.json",
+      "name": "Пример конфига",
+      "author": "",
+      "description": "Удалите эту строку и файл, когда добавите настоящие конфиги",
+      "binds": 1
+    }
+  ]
+}
