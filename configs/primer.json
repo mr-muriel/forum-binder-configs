@@ -1,0 +1,29 @@
+{
+  "format": "forum-binder-config",
+  "version": 1,
+  "name": "Пример конфига",
+  "author": "",
+  "description": "Пример формата",
+  "updated": "2026-11-24",
+  "data": {
+    "binds": [
+      {
+        "id": "primer1",
+        "folderId": "fprimer",
+        "color": "blue",
+        "titelOutput": "Пример бинда",
+        "textOutput": "Приветствую,\n\nПример текста.\n\nЗакрыто.",
+        "punish": {
+          "on": false
+        }
+      }
+    ],
+    "bindFolders": [
+      {
+        "id": "fprimer",
+        "name": "Пример",
+        "color": "blue"
+      }
+    ]
+  }
+}
